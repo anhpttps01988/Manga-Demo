@@ -1,2 +1,4 @@
 # Manga-Demo
-KOTLIN - Fetch Manga using library jsoup and lazy load more
+- Using kotlin language 
+- Library jsoup
+- Lazy loading
